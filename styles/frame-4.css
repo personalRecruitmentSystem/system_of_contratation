@@ -1,0 +1,483 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100.7rem;
+}.frame-4-Hf4 {
+  width: 100%;
+  height: 91.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .rectangle-13-ATx {
+  width: 34.9rem;
+  height: 108rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #14333a;
+}
+.frame-4-Hf4 .ezze-design-image-hCz {
+  width: 34.5rem;
+  height: 105.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-4-Hf4 .frances-2m4 {
+  width: 7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 87rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .ingles-j9g {
+  width: 5.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 80.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .linkedin-zrJ {
+  width: 7.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 62.4rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .email-HqQ {
+  width: 5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 52.8rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .telefono-PdY {
+  width: 7.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 44.8rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .direccion-3TC {
+  width: 8.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 36.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .gg-profile-tii {
+  width: 13.75rem;
+  height: 13.75rem;
+  position: absolute;
+  left: 10.625rem;
+  top: 10.525rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-4-Hf4 .rectangle-14-bt2 {
+  width: 34.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 29.3rem;
+  background-color: rgba(62, 80, 83, 0.8299999833);
+}
+.frame-4-Hf4 .rectangle-15-iSr {
+  width: 34.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 72.5rem;
+  background-color: rgba(62, 80, 83, 0.8299999833);
+}
+.frame-4-Hf4 .perfil-r3G {
+  width: 4.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 30.4rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .idiomas-unE {
+  width: 7.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 73.6rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .line-11-cge {
+  width: 24rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 40.8rem;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .line-12-YKQ {
+  width: 24rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 50.5rem;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .line-13-54S {
+  width: 24rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 58.5rem;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .line-14-1Cz {
+  width: 24rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 68.5rem;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .line-15-Lm4 {
+  width: 23.8019rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 3.3991rem;
+  top: 83.95rem;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .line-17-seW {
+  width: 14.901rem;
+  height: 0;
+  position: absolute;
+  left: 3.399rem;
+  top: 83.7255rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-4-Hf4 .line-16-DCa {
+  width: 23.8019rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 90.4rem;
+  background-color: #ffffff;
+}
+.frame-4-Hf4 .line-18-KmQ {
+  width: 10.2rem;
+  height: 0;
+  position: absolute;
+  left: 3.4rem;
+  top: 90.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-4-Hf4 .lorem-ipsum-dolor-sit-amet-consectetur-egestas-nunc-fermentum-id-tellus-dolor-proin-faucibus-eget-sit-enim-ornare-a-rutrum-congue-tincidunt-faucibus-vitae-euismod-suspendisse-amet-mi-scelerisque-posuere-laoreet-arcu-2vi {
+  width: 47.8rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 41.4rem;
+  top: 4.7rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .lorem-ipsum-dolor-sit-amet-consectetur-egestas-nunc-fermentum-id-tellus-dolor-proin-faucibus-eget-sit-enim-ornare-a-rutrum-congue-tincidunt-faucibus-vitae-euismod-suspendisse-amet-mi-scelerisque-posuere-laoreet-arcu-3qp {
+  width: 40.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 20.7rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .lorem-ipsum-dolor-sit-amet-consectetur-egestas-nunc-fermentum-id-tellus-dolor-proin-faucibus-eget-sit-enim-ornare-a-rutrum-congue-tincidunt-faucibus-vitae-euismod-suspendisse-amet-mi-scelerisque-posuere-laoreet-arcu-gNz {
+  width: 40.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 32.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .lorem-ipsum-dolor-sit-amet-consectetur-egestas-nunc-fermentum-id-tellus-dolor-proin-faucibus-eget-sit-enim-ornare-a-rutrum-congue-tincidunt-faucibus-vitae-euismod-suspendisse-amet-mi-scelerisque-posuere-laoreet-arcu-JfG {
+  width: 40.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 51.3rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .experiencia-7ci {
+  width: 10rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 38.9rem;
+  top: 14.7rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .cargo-1i6 {
+  width: 4.2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 18.6rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .cargo-HvW {
+  width: 4.2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 30rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .cargo-mqg {
+  width: 4.2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 49.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .item-2018-01-220-06-Uzz {
+  width: 6.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 20.7rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .item-2018-01-220-06-ywk {
+  width: 6.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 32.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .item-2018-01-220-06-tYv {
+  width: 6.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 51.3rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .que-hacias-que-aprendiste-Bnv {
+  width: 10.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 39.3rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .que-hacias-que-aprendiste-TkS {
+  width: 10.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 58.5rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-4-Hf4 .educacion-Vh8 {
+  width: 9.2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 40.5rem;
+  top: 65.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .informacion-adicional-ysC {
+  width: 15.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 91.6rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .rectangle-16-sBt {
+  width: 66.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 34.5rem;
+  top: 64.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.frame-4-Hf4 .rectangle-18-Agn {
+  width: 66.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 34.9rem;
+  top: 90.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.frame-4-Hf4 .rectangle-17-gQE {
+  width: 66.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 34.5rem;
+  top: 13.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.frame-4-Hf4 .lorem-ipsum-dolor-sit-amet-consectetur-egestas-nunc-fermentum-id-tellus-dolor-proin-faucibus-eget-sit-enim-ornare-a-rutrum-congue-tincidunt-faucibus-vitae-euismod-suspendisse-amet-mi-scelerisque-posuere-laoreet-arcu-ny4 {
+  width: 156.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 42.8rem;
+  top: 96.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .lorem-ipsum-dolor-sit-amet-consectetur-egestas-nunc-fermentum-id-tellus-dolor-proin-faucibus-eget-sit-enim-ornare-a-rutrum-congue-tincidunt-faucibus-vitae-euismod-suspendisse-amet-mi-scelerisque-posuere-laoreet-arcu-nra {
+  width: 156.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 42.8rem;
+  top: 96.1rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-Hf4 .image-1-1US {
+  width: 62.2rem;
+  height: 14rem;
+  position: absolute;
+  left: 37.1rem;
+  top: 70.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
